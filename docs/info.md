@@ -75,3 +75,6 @@ None.
 
 This design is fully self-contained and does not require any external hardware peripherals.
 
+## Use of Gen AI
+
+I wrote the verilog myself and then had chatgpt & claude generate a testbench for it

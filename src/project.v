@@ -17,6 +17,7 @@ module tt_um_example(
 );
 
   // All output pins must be assigned. If not used, assign to 0.
+  // Look at info.yaml for more info
   wire [6:0] left_pixel_greyscale_val, right_pixel_greyscale_val;
   wire valid_i, ready_o, ready_i, valid_o;
 
